@@ -1,9 +1,6 @@
 # Hi there, I'm Finn!
 
----
-
 <table width="100%" style="width: 100%; table-layout: fixed;">
-  <!-- HÀNG THỨ NHẤT: ABOUT ME -->
   <tr>
     <td width="65%" valign="top" style="width: 65%;">
       <h3>About Me</h3>
@@ -23,12 +20,8 @@
     <td colspan="2"><hr /></td>
   </tr>
 
-  <!-- HÀNG THỨ HAI: CONNECT WITH ME (ĐẢO NGƯỢC HÌNH TRƯỚC CHỮ SAU) -->
   <tr>
-    <td width="35%" valign="top" align="center" style="width: 35%;">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFsbGxkcDFidG40dzhlY3BtZ3FvanM1bDdiNDl4NXprNTNnb2Y0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y5txRFbqKNsddYbWTW/giphy.gif" width="100%" style="width: 100%; display: block;" alt="Working GIF" />
-    </td>
-    <td width="65%" valign="top" style="width: 65%;">
+      <td width="65%" valign="top" style="width: 65%;">
       <h3>Connect with Me</h3>
       <p>Here are the places where you can find my work, read my articles, or just say hi:</p>
       <ul>
@@ -36,11 +29,10 @@
         <li><b>Blog:</b> https://dev.to/finn2kzz</li>
       </ul>
     </td>
+    <td width="35%" valign="top" align="center" style="width: 35%;">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFsbGxkcDFidG40dzhlY3BtZ3FvanM1bDdiNDl4NXprNTNnb2Y0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y5txRFbqKNsddYbWTW/giphy.gif" width="100%" style="width: 100%; display: block;" alt="Working GIF" />
+    </td>
+  
   </tr>
 </table>
 
----
-
-### Tech Stack & Skills
-- **Languages:** JavaScript, TypeScript
-- **Backend:** Node.js, NestJS
