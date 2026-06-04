@@ -1,6 +1,6 @@
 # Hi there, I'm Finn!
 
-<p align="center">
+<p align="left">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWg3NDR4ZG11NXV2d2U4ZXV3b3cxbzFocmFhaWt6dG12ZDY2NDE1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="450" alt="Flash GIF" />
 </p>
 
@@ -29,9 +29,3 @@ Here are the places where you can find my work, read my articles, or just say hi
 ### Tech Stack & Skills
 - **Languages:** JavaScript, TypeScript
 - **Backend:** Node.js, NestJS
-
----
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3k5dXA4aTY5NG9zc3lnbWVmcGNmM21tN3czdXZ5OTRubXFqdTdoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aJjMQdGZNAUgraf34G/giphy.gif" width="400" alt="Iron Man GIF" />
-</p>
