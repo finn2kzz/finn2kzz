@@ -14,11 +14,6 @@
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWg3NDR4ZG11NXV2d2U4ZXV3b3cxbzFocmFhaWt6dG12ZDY2NDE1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" style="width: 100%; display: block;" alt="Flash GIF" />
     </td>
   </tr>
-  
-  <!-- ĐƯỜNG KẺ NGĂN CÁCH GIỮA 2 PHẦN -->
-  <tr>
-    <td colspan="2"><hr /></td>
-  </tr>
 
   <tr>
       <td width="65%" valign="top" style="width: 65%;">
